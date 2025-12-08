@@ -7,6 +7,27 @@ __pycache__/
 env/
 venv/
 ENV/
+
+# Personal files
+*.pdf
+*Resume*
+*resume*
+
+# Internal documentation (keep only essential docs)
+ENHANCEMENT_SUMMARY.md
+GETTING_STARTED.md
+GIT_PUSH_SCHEDULE.md
+SKILLS_TO_BE_PLANNED.md
+WORKSPACE_SUMMARY.txt
+
+# Temporary build files
+build_*.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
 build/
 develop-eggs/
 dist/
