@@ -54,8 +54,6 @@ Desktop.ini
 
 # Personal files
 *.pdf
-*Resume*
-*resume*
 
 # Internal documentation (keep only essential docs)
 ENHANCEMENT_SUMMARY.md
@@ -116,8 +114,7 @@ build_*.py
 *.pem
 credentials.json
 secrets.json
-resume.pdf
-cv.pdf
+
 
 # Large output files
 *.mp4
@@ -156,3 +153,4 @@ build_*.py
 
 # Logs
 *.log
+.github/copilot-instructions.md
